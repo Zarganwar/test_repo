@@ -10,6 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+		<h1>HEADER</h1>
 		<p>ODSTAVEC</p>
 		<?php
 		// put your code here
