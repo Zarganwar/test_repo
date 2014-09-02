@@ -17,5 +17,7 @@ and open the template in the editor.
 		echo $t->format("d.m.Y");
 		?>
 		<p>TEXT</p>
+		<hr>
+		ABC
     </body>
 </html>
