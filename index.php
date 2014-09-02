@@ -13,7 +13,9 @@ and open the template in the editor.
 		<h1>HEADER</h1>
 		<p>ODSTAVEC</p>
 		<?php
-		// put your code here
+		$t = new DateTime("-30 days");
+		echo $t->format("d.m.Y");
 		?>
+		<p>TEXT</p>
     </body>
 </html>
