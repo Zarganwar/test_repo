@@ -11,8 +11,6 @@ and open the template in the editor.
     </head>
     <body>
 		<h1>HEADER</h1>
-		<?php
-		// put your code here
-		?>
+		Obletěli jsme vesmír 2x dokola
     </body>
 </html>
