@@ -11,8 +11,6 @@ and open the template in the editor.
     </head>
     <body>
 		<h2>HEADER</h2>
-		<?php
-		// put your code here
-		?>
+		Ouža kecy o ničem nemožném
     </body>
 </html>
