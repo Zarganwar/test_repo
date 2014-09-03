@@ -10,6 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+		<h1>HEADER</h1>
+		Obletěli jsme vesmír 2x dokola
 		<h2>HEADER</h2>
 		pssst
     </body>
