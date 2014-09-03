@@ -10,14 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-		<h1>HEADER</h1>
-		<p>ODSTAVEC</p>
-		<?php
-		$t = new DateTime("-30 days");
-		echo $t->format("d.m.Y");
-		?>
-		<p>TEXT</p>
-		<hr>
-		ABC
+		Všechno je špatně
     </body>
 </html>
