@@ -11,6 +11,6 @@ and open the template in the editor.
     </head>
     <body>
 		<h2>HEADER</h2>
-		Ouža kecy o ničem nemožném
+		pssst
     </body>
 </html>
